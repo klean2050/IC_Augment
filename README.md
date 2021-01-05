@@ -16,7 +16,7 @@ If you find our paper useful in your research, please consider citing:
 ```
 @inproceedings{kratimenos2020ic,
   title={Augmentation Methods on Monophonic Audio for Instrument Classification in Polyphonic Music},
-  author={Kratimenos, A. and Avramidis, K. and Garoufis, C and Zlatintsi, A and Maragos, P},
+  author={Kratimenos, A. and Avramidis, K. and Garoufis, C and Zlatintsi, A and Maragos, P.},
   booktitle={2020 28th European Signal Processing Conference},
   pages={156-160},
   year={2020}
