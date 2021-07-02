@@ -17,8 +17,9 @@ If you find our paper useful in your research, please consider citing:
 @inproceedings{kratimenos2020ic,
   title={Augmentation Methods on Monophonic Audio for Instrument Classification in Polyphonic Music},
   author={Kratimenos, A. and Avramidis, K. and Garoufis, C. and Zlatintsi, A. and Maragos, P.},
-  booktitle={2020 28th European Signal Processing Conference},
+  booktitle={2020 28th European Signal Processing Conference (EUSIPCO)},
   pages={156-160},
-  year={2020}
+  year={2020},
+  doi={10.23919/Eusipco47968.2020.9287745}
 }
 ```
